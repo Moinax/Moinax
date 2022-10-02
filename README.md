@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jérôme Poskin</h1>
-<h3 align="center">A passionate freelancer, looking for new challenges</h3>
+<h3 align="center">A passionate freelancer, always looking for new challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinax&label=Profile%20views&color=0e75b6&style=flat" alt="moinax" /> </p>
 
